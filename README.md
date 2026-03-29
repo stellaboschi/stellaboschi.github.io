@@ -29,4 +29,6 @@ Welcome to my digital laboratory, powered by GitHub and Markdown. This space is 
 
 > “Writing to live. To face one’s own complexity. To stay unfenceable.”
 
-<img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+<p align="right">
+  <img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+</p>
