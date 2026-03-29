@@ -15,7 +15,7 @@ Welcome to my digital laboratory, powered by GitHub and Markdown. This space is 
 *Fili Sottili: Lettere dal caos.*
 
 ### [Taming the Magma (EN)](https://stellaboschi.github.io/taming-the-magma/en/)
-*Letters from Chaos: Documenting the journey with Johnny. A real-time log of an evolving dialogue with AI.*
+*Letters from Chaos: Documenting the journey with Johnny. A real-time log of my evolving dialogue with AI.*
 
 ---
 
