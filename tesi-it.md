@@ -7,18 +7,20 @@
 ---
 
 ## Abstract / Descrizione
-Questa ricerca analizza il settore della ristorazione non solo come comparto economico, ma come una complessa **istituzione sociale** e un sistema socio-tecnico. Attraverso le lenti della teoria organizzativa classica e moderna (Woodward, Thompson, Galbraith), il lavoro esplora come il ristorante gestisca l'incertezza ambientale.
+**Il ristorante come sistema socio-culturale**
+La tesi analizza il ristorante non solo come entità economica, ma come istituzione sociale e culturale complessa. Attraverso gli strumenti della teoria organizzativa, lo studio suggerisce che il modello di ristorazione sia uno specchio della società in cui nasce.
 
-### I punti chiave della ricerca:
-* **Gestione dell'Incertezza:** Il contrasto tra la standardizzazione meccanica del "Fast Food" (produzione di massa/automazione) e la flessibilità della "Ristorazione di Qualità" (produzione in piccola serie).
-* **Il Momento della Verità:** Il ruolo cruciale dei *front-liners* (il personale di sala) come perni connettori tra la struttura rigida aziendale e il flusso variabile della clientela.
-* **L'Automazione Concettuale:** Riflessioni su come la tecnologia e le procedure influenzino il comportamento sociale e l'efficienza sistemica.
+### Spunti di riflessione:
+* **Ottimizzazione delle risorse e gestione dell’incertezza:** Distinzione tra la ristorazione di qualità (piccola serie, dove l'imprevedibilità può essere anche una risorsa creativa) e il Fast Food (modello di automazione e standardizzazione meccanica).
+* La tesi identifica i front-liners (camerieri) come i **perni connettori** necessari per mediare tra la struttura rigida dell'azienda e la variabilità portata dal cliente.
+* **Lo Spazio Sociale come Presidio:** Il ristorante tradizionale è un "testimone" della storia locale. Difenderne la qualità significa salvaguardare le radici dell'individuo.
+* **Identità vs. Globalizzazione:** In un mondo sempre più interdipendente e vasto, il tessuto sociale del territorio (le origini) è un’ancora che permette all'uomo di affrontare il cambiamento senza smarrirsi, rendendo possibile un percorso di crescita anziché di dispersione culturale.
 
 ---
 
 ## Dal 2003 al 2026: Il "Porting" verso l'Intelligenza Artificiale
-Rileggere questa tesi oggi offre lo spunto per applicare i concetti di **razionalità organizzativa** alla sfida del nostro tempo: il dialogo con le macchine.
-* **Addomesticare il Magma:** proprio come un ristorante deve trasformare il caos delle ordinazioni in un servizio fluido, la sfida del nostro tempo è dare forma/sostanza/utilità/concretezza al flusso creativo generato dalle intelligenze artificiali. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
+Rileggere questa tesi oggi offre lo spunto per applicare i concetti della **teoria organizzativa** alla sfida del nostro tempo: il dialogo con le macchine.
+* **Addomesticare il Magma:** proprio come un ristorante deve trasformare il caos delle ordinazioni in un servizio fluido senza perdere la propria essenza di sistema sociale, la sfida del nostro tempo è governare il potenziale creativo generato dalle intelligenze artificiali senza esserne sopraffatti. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
 
 ---
 
