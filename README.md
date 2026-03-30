@@ -22,7 +22,7 @@ Welcome to my digital laboratory. This space is dedicated to the intersection of
 ---
 
 ## Ricerca / Research
-* [La mia tesi su TesiOnline (IT)](https://www.tesionline.it/) 
+* [Tesi di laurea: Il ristorante come sistema organizzativo (IT)](https://stellaboschi.github.io/tesi-it)
 * *Thesis Translation: Porting my academic research into English for a global audience. (EN) - Coming soon.*
 
 ---
