@@ -1,7 +1,6 @@
 # Il ristorante come sistema organizzativo
 
-**UNIVERSITÀ DEGLI STUDI DI GENOVA** *Facoltà di Scienze Politiche | Corso di Laurea in Scienze Politiche (Indirizzo Politico-Sociale)* 
-
+**UNIVERSITÀ DEGLI STUDI DI GENOVA** Facoltà di Scienze Politiche | Corso di Laurea in Scienze Politiche (Indirizzo Politico-Sociale)
 **Materia:** TEORIA DELL’ORGANIZZAZIONE  
 **Relatore:** Prof. BRUNO BOLOGNINI  
 **Anno Accademico:** 2001-2002 | **Sessione di Laurea:** Febbraio 2003
