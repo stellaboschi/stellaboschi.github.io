@@ -18,7 +18,7 @@ Questa ricerca analizza il settore della ristorazione non solo come comparto eco
 
 ## Dal 2003 al 2026: Il "Porting" verso l'Intelligenza Artificiale
 Rileggere questa tesi oggi offre lo spunto per applicare i concetti di **razionalità organizzativa** alla sfida del nostro tempo: il dialogo con le macchine.
-* **Addomesticare il Magma:** Proprio come un ristorante deve trasformare il caos delle ordinazioni in un servizio fluido, la sfida del nostro tempo è dare forma/sostanza/utilità/concretezza al flusso creativo generato dalle intelligenze artificiali. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** Un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
+* **Addomesticare il Magma:** proprio come un ristorante deve trasformare il caos delle ordinazioni in un servizio fluido, la sfida del nostro tempo è dare forma/sostanza/utilità/concretezza al flusso creativo generato dalle intelligenze artificiali. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
 
 ---
 
