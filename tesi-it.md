@@ -28,8 +28,8 @@ Rileggere questa tesi oggi offre lo spunto per applicare i concetti della **teor
 
 ### La tesi completa
 L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnline al seguente link:
-[Vai alla tesi su TesiOnline (IT)](https://www.tesionline.it/tesi/23611/Il-ristorante-come-sistema-organizzativo)
+**[Vai alla tesi su TesiOnline (IT)](https://www.tesionline.it/tesi/23611/Il-ristorante-come-sistema-organizzativo)**
 
 ---
 
-[← Torna alla Home](https://stellaboschi.github.io/)
+**[← Torna alla Home](https://stellaboschi.github.io/)**
