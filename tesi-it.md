@@ -15,7 +15,7 @@ La tesi analizza il ristorante non solo come entità economica, ma come istituzi
 * **Ottimizzazione delle risorse e gestione dell’incertezza:** Distinzione tra la ristorazione di qualità (piccola serie, dove l'imprevedibilità può essere anche una risorsa creativa) e il Fast Food (modello di automazione e standardizzazione meccanica).
 * La tesi identifica i front-liners (camerieri) come i **perni connettori** necessari per mediare tra la struttura rigida dell'azienda e la variabilità portata dal cliente.
 * **Lo Spazio Sociale come Presidio:** Il ristorante tradizionale è un "testimone" della storia locale. Difenderne la qualità significa salvaguardare le radici dell'individuo.
-* **Identità vs. Globalizzazione:** In un mondo sempre più interdipendente e vasto, il tessuto sociale del territorio (le origini) è un’ancora che permette all'uomo di affrontare il cambiamento senza smarrirsi, rendendo possibile un percorso di crescita anziché di dispersione culturale.
+* **Identità vs. Globalizzazione:** In un mondo sempre più interdipendente e vasto, il tessuto sociale del territorio (le origini) è un’àncora che permette all'uomo di affrontare il cambiamento senza smarrirsi, rendendo possibile un percorso di crescita anziché di dispersione culturale.
 
 ---
 
