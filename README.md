@@ -18,6 +18,7 @@ Welcome to my digital laboratory. This space is dedicated to the intersection of
 
 ### [Taming the Magma (EN)](https://stellaboschi.github.io/taming-the-magma/en/)
 *Letters from Chaos: Documenting the journey with "Johnny". A real-time log of a human-AI hybrid dialogue attempting to tame the chaos.*
+
 ---
 
 ## Ricerca / Research
