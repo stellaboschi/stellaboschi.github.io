@@ -3,22 +3,21 @@
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
 
-Welcome to my digital laboratory, powered by GitHub and Markdown. This space is dedicated to the intersection of human creativity and machine intelligence.
+Welcome to my digital laboratory. This space is dedicated to the intersection of human creativity and machine intelligence.
 
-## I miei Mondi / My Worlds
+## I miei mondi / My Worlds
 
 ### [Amrita Express (IT)](https://stellaboschi.github.io/amrita-express/it/)
 *Solitudine, determinazione, speranza.*
 
 ### [Amrita Express (EN)](https://stellaboschi.github.io/amrita-express/en/)
-*Towards the Plateau: Stella's Journey.*
+*Stella's Journey. A narrative journey through solitude and hope.*
 
 ### [Taming the Magma (IT)](https://stellaboschi.github.io/taming-the-magma/it/)
 *Fili Sottili: Lettere dal caos.*
 
 ### [Taming the Magma (EN)](https://stellaboschi.github.io/taming-the-magma/en/)
-*Letters from Chaos: Documenting the journey with "Johnny". A real-time log of my evolving dialogue with AI.*
-
+*Letters from Chaos: Documenting the journey with "Johnny". A real-time log of a human-AI hybrid dialogue attempting to tame the chaos.*
 ---
 
 ## Ricerca / Research
