@@ -10,7 +10,7 @@
 Questa ricerca analizza il settore della ristorazione non solo come comparto economico, ma come una complessa **istituzione sociale** e un sistema socio-tecnico. Attraverso le lenti della teoria organizzativa classica e moderna (Woodward, Thompson, Galbraith), il lavoro esplora come il ristorante gestisca l'incertezza ambientale.
 
 ### I punti chiave della ricerca:
-* **Gestione dell'Incertezza:** Il contrasto tra la standardizzazione del "Fast Food" (produzione di massa) e la flessibilità della "Ristorazione di Qualità" (produzione in piccola serie).
+* **Gestione dell'Incertezza:** Il contrasto tra la standardizzazione meccanica del "Fast Food" (produzione di massa/automazione) e la flessibilità della "Ristorazione di Qualità" (produzione in piccola serie).
 * **Il Momento della Verità:** Il ruolo cruciale dei *front-liners* (il personale di sala) come perni connettori tra la struttura rigida aziendale e il flusso variabile della clientela.
 * **L'Automazione Concettuale:** Riflessioni su come la tecnologia e le procedure influenzino il comportamento sociale e l'efficienza sistemica.
 
@@ -23,7 +23,7 @@ Rileggere questa tesi oggi offre lo spunto per applicare i concetti di **raziona
 ---
 
 ### La tesi completa
-L'intero lavoro originale è disponibile su TesiOnline al seguente link:
+L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnline al seguente link:
 [Vai alla tesi su TesiOnline (IT)](https://www.tesionline.it/tesi/23611/Il-ristorante-come-sistema-organizzativo)
 
 ---
