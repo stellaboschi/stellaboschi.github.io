@@ -14,10 +14,10 @@ Welcome to my digital laboratory. This space is dedicated to the intersection of
 *Stella's Journey. A narrative journey through solitude and hope.*
 
 ### [Taming the Magma (IT)](https://stellaboschi.github.io/taming-the-magma/it/)
-*Fili Sottili: Lettere dal caos.*
+*Fili Sottili: lettere dal caos.*
 
 ### [Taming the Magma (EN)](https://stellaboschi.github.io/taming-the-magma/en/)
-*Letters from Chaos: Documenting the journey with "Johnny". A real-time log of a human-AI hybrid dialogue attempting to tame the chaos.*
+*Letters from chaos: documenting the journey with "Johnny". A real-time log of a human-AI hybrid dialogue attempting to tame the flow.*
 
 ---
 
