@@ -35,4 +35,6 @@ Welcome to the main hub.
   <img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
 </p>
 
-Copyright © 2026 by Stella Boschi – Tutti i diritti riservati.
+---
+
+*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*
