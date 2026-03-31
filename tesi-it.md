@@ -34,4 +34,6 @@ L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnl
 
 ---
 
-**[← Torna al Main Hub di Stella Boschi](https://stellaboschi.github.io/)**
+**[← Torna al Main Hub di Stella Boschi](https://stellaboschi.github.io/)**  
+
+Copyright © 2026 by Stella Boschi – Tutti i diritti riservati.  
