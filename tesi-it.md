@@ -38,4 +38,4 @@ L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnl
 
 --- 
 
-Copyright © 2026 by Stella Boschi – Tutti i diritti riservati.  
+*Copyright © 2017–2026 by Stella Boschi – All rights reserved.*
