@@ -27,9 +27,7 @@ Welcome to the main hub.
 
 > “Writing to live. To face one’s own complexity. To stay unfenceable.”
 
-<p align="right">
-  <img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
-</p>
+<img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
 
 ---
 
