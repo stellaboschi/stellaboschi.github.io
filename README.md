@@ -9,16 +9,10 @@ Welcome to the main hub.
 
 ## I miei mondi / My Worlds
 
-### [Amrita Express (IT)](https://stella711.blogspot.com/)
-*Solitudine, determinazione, speranza.*
+### [Amrita Express](https://stellaboschi.github.io/amrita-express/)
+*Stella's Journey: a narrative path through solitude and hope. | Solitudine, determinazione, speranza: Amrita Express.*
 
-### [Amrita Express (EN)](https://amrita711.blogspot.com/)
-*Stella's Journey. A narrative journey through solitude and hope.*
-
-### [Taming the Magma (IT)](https://stellaboschi.github.io/taming-the-magma/it/)
-*Fili Sottili: lettere dal caos.*
-
-### [Taming the Magma (EN)](https://stellaboschi.github.io/taming-the-magma/en/)
+### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/)
 *Letters from chaos: documenting the journey with "Johnny". A real-time log of a human-AI hybrid dialogue attempting to tame the flow.*
 
 ---
