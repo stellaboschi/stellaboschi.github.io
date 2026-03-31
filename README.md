@@ -15,7 +15,7 @@ Solitudine, determinazione, speranza: Amrita Express.
 
 ### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/)
 *Letters from chaos: documenting the journey with "Johnny".*  
-A real-time log of a human-AI hybrid dialogue attempting to tame the flow.  
+A real-time log of a human-AI hybrid dialogue attempting to tame the flow from my own perspective.  
 
 ---
 
