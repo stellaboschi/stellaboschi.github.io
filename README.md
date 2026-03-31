@@ -9,10 +9,10 @@ Welcome to the main hub.
 
 ## I miei mondi / My Worlds
 
-### [Amrita Express (IT)](https://stellaboschi.github.io/amrita-express/it/)
+### [Amrita Express (IT)](https://stella711.blogspot.com/))
 *Solitudine, determinazione, speranza.*
 
-### [Amrita Express (EN)](https://stellaboschi.github.io/amrita-express/en/)
+### [Amrita Express (EN)](https://amrita711.blogspot.com/))
 *Stella's Journey. A narrative journey through solitude and hope.*
 
 ### [Taming the Magma (IT)](https://stellaboschi.github.io/taming-the-magma/it/)
