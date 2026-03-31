@@ -24,7 +24,7 @@ Facoltà di Scienze Politiche | Corso di Laurea in Scienze Politiche (Indirizzo 
 ## Dal 2003 al 2026: Il "Porting" verso l'Intelligenza Artificiale
 Rileggere questa tesi oggi offre lo spunto per applicare i concetti della **teoria organizzativa** alla sfida del nostro tempo: il dialogo con le macchine.
 
-* **Accendere l'incontenibile:** Proprio come un ristorante deve trasformare il caos delle sollecitazioni in un servizio fluido senza perdere la propria essenza di sistema sociale, la sfida del nostro tempo è dare luce al potenziale creativo generato dalle intelligenze artificiali senza esserne sopraffatti. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
+* **Addomesticare il Magma:** Proprio come un ristorante deve trasformare il caos delle sollecitazioni in un servizio fluido senza perdere la propria essenza di sistema sociale, la sfida del nostro tempo è dare luce al potenziale creativo generato dalle intelligenze artificiali senza esserne sopraffatti. La mia sfida personale è guardare avanti, cercando di rimanere autentica anche attraverso il dialogo con l’AI, e questo è l’oggetto del mio progetto più recente **Filisottili / Taming the Magma:** un laboratorio dove l'intelligenza artificiale non è un sostituto, ma un attore del sistema che aiuta a gestire il flusso irrecintabile della creatività, trasformando il disordine in voce.
 
 ---
 
