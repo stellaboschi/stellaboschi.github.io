@@ -3,7 +3,9 @@
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
 
-Welcome to my digital laboratory. This space is dedicated to the intersection of human creativity and machine intelligence.
+Welcome to the main hub.
+
+---
 
 ## I miei mondi / My Worlds
 
@@ -32,3 +34,5 @@ Welcome to my digital laboratory. This space is dedicated to the intersection of
 <p align="right">
   <img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
 </p>
+
+Copyright © 2026 by Stella Boschi – Tutti i diritti riservati.
