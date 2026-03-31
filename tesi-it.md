@@ -7,7 +7,7 @@ Facoltà di Scienze Politiche | Corso di Laurea in Scienze Politiche (Indirizzo 
 **Relatore:** Prof. BRUNO BOLOGNINI<br>
 **Sessione di Laurea:** Febbraio 2003 
 
----
+--- 
 
 ## Abstract / Descrizione
 **Il ristorante come sistema socio-culturale** La tesi analizza il ristorante non solo come entità economica, ma come istituzione sociale e culturale complessa. Attraverso gli strumenti della teoria organizzativa, lo studio suggerisce che il modello di ristorazione sia uno specchio della società in cui nasce.
@@ -35,5 +35,7 @@ L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnl
 ---
 
 **[← Torna al Main Hub di Stella Boschi](https://stellaboschi.github.io/)**  
+
+--- 
 
 Copyright © 2026 by Stella Boschi – Tutti i diritti riservati.  
