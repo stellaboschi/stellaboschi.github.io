@@ -17,7 +17,7 @@ A real-time log of a human-AI hybrid dialogue attempting to tame the flow from o
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
-### [Alberi Senza Radici](https://stellaboschi.github.io/alberi-senza-radici) <small>[2003]</small>  
+### [Alberi Senza Radici | Rootless Trees](https://stellaboschi.github.io/alberi-senza-radici) <small>[2003]</small>  
 *"Gente che non è né triste né felice, ma soltanto enormemente vuota."*  
 *Alberi senza radici* è un progetto del 2003, un'indagine sulla solitudine, sull'assenza di punti di riferimento e sulla ricerca di una rinascita che passa attraverso l'incontro e l'accettazione del proprio vuoto. 
  
