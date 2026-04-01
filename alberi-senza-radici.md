@@ -1,9 +1,3 @@
----
-layout: page
-title: Alberi senza radici
-permalink: /alberi-senza-radici/
----
-
 ## Presentazione
 
 "Gente che non è né triste né felice, ma soltanto enormemente vuota."
@@ -12,4 +6,12 @@ permalink: /alberi-senza-radici/
 
 ---
 ### Materiali in arrivo
-In questa sezione verranno raccolti frammenti, riflessioni e materiali relativi al romanzo.
+In questa sezione verranno raccolti frammenti, riflessioni e materiali relativi al romanzo. 
+ 
+---
+
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+---
+
+*Copyright © 2017–2026 by Stella Boschi – All rights reserved.*
