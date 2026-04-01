@@ -17,7 +17,9 @@ A real-time log of a human-AI hybrid dialogue attempting to tame the flow from m
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
-### [Alberi Senza Radici]
+### [Alberi Senza Radici](https://stellaboschi.github.io/alberi-senza-radici/)
+*"La nostra piccola vita si trovava in un punto di equilibrio instabile, sentii in quell’istante che solo restando unite le nostre esistenze avrebbero potuto salvarsi. Allora avremmo potuto crescere sane e forti come due rami intrecciati l’uno sull’altro. Proprio così, nonostante tutto, nonostante il vuoto e la desolazione da cui eravamo nate..."*  
+Un romanzo breve e qualche racconto.
  
 ---
 
