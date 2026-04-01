@@ -1,13 +1,14 @@
 ## Un romanzo breve e qualche racconto
 
 *"La nostra piccola vita si trovava in un punto di equilibrio instabile, sentii in quell’istante che solo restando unite le nostre esistenze avrebbero potuto salvarsi. Allora avremmo potuto crescere sane e forti come due rami intrecciati l’uno sull’altro. Proprio così, nonostante tutto, nonostante il vuoto e la desolazione da cui eravamo nate..."*  
-
-*Alberi senza radici* è un progetto del 2003, un'indagine sulla solitudine, sull'assenza di punti di riferimento e sulla ricerca di una rinascita che passa attraverso l'incontro e l'accettazione del proprio vuoto.
- 
+  
+Il viaggio di un'umanità sospesa, nata tra le mura di una Genova introversa.   
+Un diario di frammenti e solitudini alla ricerca di un punto di equilibrio.    
+  
 ---
  
 ### Materiali in arrivo
-In questa sezione verranno raccolti frammenti, riflessioni e materiali relativi al romanzo. 
+In questa sezione verranno raccolti materiali relativi al romanzo. 
  
 ---
 
