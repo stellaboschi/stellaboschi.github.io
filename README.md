@@ -19,7 +19,7 @@ Solitudine, determinazione, speranza: Amrita Express.
   
 ### [Alberi Senza Radici | Rootless Trees](alberi-senza-radici.md) <small>[2003]</small>
 *"People who are neither sad nor happy, but only enormously empty."*  
-An inquiry into the absence of milestones and the search for a rebirth.
+A short novel and stories. A diary of fragments and solitude seeking a balance point.
  
 ---
 
