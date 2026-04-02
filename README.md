@@ -23,8 +23,8 @@ An inquiry into the absence of milestones and the search for a rebirth.
  
 ---
 
-## Early Research <small>[2003]</small>  
-Una raccolta di saggi e ricerche del periodo universitario.
+## [Early Research [2003]](early-research.md)
+Research papers from my university years.
 
 ---
 
