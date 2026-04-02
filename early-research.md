@@ -1,10 +1,10 @@
 # Early Research
-A collection of essays and research papers from my university years. 
+A collection of essays and research papers from university years. 
 
 ---
 
 * **[Tesi di laurea: Il ristorante come sistema organizzativo (IT)](tesi-it.md)**
-* *Thesis Translation: Porting my academic research into English for a global audience. (EN) - Coming soon.*
+* *Thesis Translation: Porting an academic research into English for a global audience. (EN) - Coming soon.*
 
 ---
 
