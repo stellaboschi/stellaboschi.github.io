@@ -1,4 +1,4 @@
-<img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+<img src="hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
 
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
