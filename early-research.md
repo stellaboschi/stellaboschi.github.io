@@ -3,7 +3,7 @@ A collection of essays and research papers from my university years.
 
 ---
 
-* [Tesi di laurea: Il ristorante come sistema organizzativo (IT)](tesi-it.md)
+* **[Tesi di laurea: Il ristorante come sistema organizzativo (IT)](tesi-it.md)**
 * *Thesis Translation: Porting my academic research into English for a global audience. (EN) - Coming soon.*
 ---
 
