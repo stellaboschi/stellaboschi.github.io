@@ -23,9 +23,8 @@ An inquiry into the absence of milestones and the search for a rebirth.
  
 ---
 
-## Ricerca / Research <small>[2003]</small>  
-* **[Tesi di laurea: Il ristorante come sistema organizzativo (IT)](https://stellaboschi.github.io/tesi-it)**
-* *Thesis Translation: Porting my academic research into English for a global audience. (EN) - Coming soon.*
+## Early Research <small>[2003]</small>  
+Una raccolta di saggi e ricerche del periodo universitario.
 
 ---
 
