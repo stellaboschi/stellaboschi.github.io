@@ -24,7 +24,7 @@ A short novel and stories. A diary of fragments and solitude seeking a balance p
 ---
 
 ## [Early Research [2003]](early-research.md)
-Research papers from my university years.
+An archive from my university years.
 
 ---
 
