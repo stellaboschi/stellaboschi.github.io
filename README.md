@@ -23,15 +23,15 @@ A short novel and stories. A diary of fragments and solitude seeking a balance p
  
 ---
 
-## [Early Research [2003]](early-research.md)
+## [Early Research [2000 - 2003]](early-research.md)
 An archive from my university years.
 
 ---
 
 > “Writing to live. To face one’s own complexity. To stay unfenceable.”
 
-<img src="https://stellaboschi.github.io/hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+<img src="hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
 
 ---
 
-*Copyright © 2003–2026 by Stella Boschi – All rights reserved.*
+*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
