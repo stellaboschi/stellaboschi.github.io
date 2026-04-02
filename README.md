@@ -19,8 +19,7 @@ Solitudine, determinazione, speranza: Amrita Express.
   
 ### [Alberi Senza Radici | Rootless Trees](https://stellaboschi.github.io/alberi-senza-radici) <small>[2003]</small>  
 *"People who are neither sad nor happy, but only enormously empty."*  
-Un'indagine sull'assenza di punti di riferimento e sulla ricerca di una rinascita che passa attraverso l'incontro e l'accettazione del proprio vuoto.  
-*An inquiry into the absence of milestones and the search for a rebirth.*  
+An inquiry into the absence of milestones and the search for a rebirth.
  
 ---
 
