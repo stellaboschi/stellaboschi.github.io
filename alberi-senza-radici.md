@@ -11,7 +11,7 @@ In questa sezione verranno raccolti materiali relativi al romanzo.
  
 ---
 
-**[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)**
+**[← Return to Stella Boschi's Main Hub](README.md)**
 
 ---
 
