@@ -14,7 +14,7 @@ In questa sezione verranno raccolti materiali relativi al romanzo. Saranno prest
  
 ---
 
-**[← Return to Stella Boschi's Main Hub](README.md)**
+[← Return to Stella Boschi's Main Hub](README.md)
 
 ---
 
