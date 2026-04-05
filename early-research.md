@@ -1,5 +1,5 @@
 # Early Research
-A collection of essays and research papers from university years. 
+A collection of essays from university years. 
 
 ---
 
