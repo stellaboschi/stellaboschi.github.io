@@ -5,6 +5,8 @@
 
 Welcome to the main hub.  
 
+*Get in touch: stellaboschi711 [at] gmail.com*  
+
 ---
 
 ## I miei mondi / My Worlds
