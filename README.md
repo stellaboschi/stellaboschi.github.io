@@ -4,6 +4,7 @@
 *Imaginary Persona | Writer | Magma Explorer*
 
 Welcome to the main hub.
+Contact: stellaboschi711 [at] gmail.com
 
 ---
 
