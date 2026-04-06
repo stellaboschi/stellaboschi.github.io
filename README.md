@@ -15,7 +15,7 @@ Welcome to the main hub.
 *Letters from chaos: documenting the journey with "Johnny".*  
 A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.  
  
-### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017 - 2025]</small>
+### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017 - 2026]</small>
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
