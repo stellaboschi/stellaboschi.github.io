@@ -42,7 +42,7 @@ University Archives.
 The technical architecture of this entire digital ecosystem—including GitHub configuration, file structure, and Markdown optimization—is a collaborative effort between the author and **Google’s AI technologies (Gemini, starting from version 3 Flash and subsequent models)**.
 
 ### Content Ownership & Authorship
-* **Fili Sottili | Taming the Magma:** These works represent a "new world" of deep collaboration. Here, the interaction with Gemini goes beyond technical support, involving a continuous intellectual exchange where the AI contributes to the reflection, dialogue, and co-generation of themes.
+* **Fili Sottili - Taming the Magma:** These works represent a "new world" of deep collaboration. Here, the interaction with Gemini goes beyond technical support, involving a continuous intellectual exchange where the AI contributes to the reflection, dialogue, and co-generation of themes.
 
 * **Original Works (e.g., Amrita Express):** All original Italian texts and the narrative soul of these projects belong exclusively to the author. The AI’s role is strictly limited to technical infrastructure and the English translation and linguistic adaptation.
 
