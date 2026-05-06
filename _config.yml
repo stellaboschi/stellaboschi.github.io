@@ -1,5 +1,8 @@
 title: ""
-description: "Writing to live. To face one’s own complexity."
-# Parametri per il footer (opzionali ma utili per ordine)
+description: "Main hub and digital laboratory hosting the creative worlds and research of Stella Boschi. Writing to live."
+baseurl: "" 
+url: "https://stellaboschi.io"
+
+# Parametri per il Footer (Auto-aggiornante)
 start_year: 2000
 copyright_name: "Stella Boschi"
