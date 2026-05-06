@@ -10,6 +10,10 @@ Welcome to the main hub.
 ---
 
 ## I miei mondi / My Worlds
+
+### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
+*A paper heron never chooses its destination.*  
+Paper herons circling artlessly over the abyss. Short stories and verse.
  
 ### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
