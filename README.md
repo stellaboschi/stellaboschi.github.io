@@ -48,4 +48,4 @@ The technical architecture of this entire digital ecosystem—including GitHub c
 
 ---
 
-*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
+{% include footer.html %}
