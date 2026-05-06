@@ -34,6 +34,8 @@ L'intero lavoro originale (la tesi di laurea del 2003) è disponibile su TesiOnl
 
 ---
 
+[← Return to Early Research](early-research.md)  
+ 
 [← Return to Stella Boschi's Main Hub](README.md)
 
 {% include footer.html %}
