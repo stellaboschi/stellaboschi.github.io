@@ -16,6 +16,4 @@ In questa sezione verranno raccolti materiali relativi al romanzo. Saranno prest
 
 [← Return to Stella Boschi's Main Hub](README.md)
 
----
-
-*Copyright © 2000–2026 by Stella Boschi – All rights reserved.*
+{% include footer.html %}
