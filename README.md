@@ -46,6 +46,4 @@ The technical architecture of this entire digital ecosystem—including GitHub c
 
 * **Original Works (e.g., Amrita Express):** All original Italian texts and the narrative soul of these projects belong exclusively to the author. The AI’s role is strictly limited to technical infrastructure and the English translation and linguistic adaptation.
 
----
-
 {% include footer.html %}
