@@ -1,4 +1,4 @@
-<img src="hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s ‘Creation of Adam,’ the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
 
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
@@ -35,7 +35,7 @@ University Archives.
 
 > “Writing to live. To face one’s own complexity. To stay unfenceable.”
 
-<img src="hero-banner.png" alt="An intricate web of magenta and cyan threads" width="600">
+<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s ‘Creation of Adam,’ the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
 
 ---
 
