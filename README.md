@@ -3,7 +3,7 @@
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
 
-Welcome to the main hub.  
+Welcome to the main hub — A node in the infosphere to call home.
 
 *Get in touch: stellaboschi711 [at] gmail.com*  
 
