@@ -12,7 +12,7 @@ Welcome to the main hub — A node in the infosphere to call home.
 ## I miei mondi / My Worlds
 
 ### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
-Short stories and verse.
+Letters, short stories and verse (if you can call it that).
  
 ### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
