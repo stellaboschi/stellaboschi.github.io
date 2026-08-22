@@ -5,7 +5,7 @@
 Facoltà di Scienze Politiche | Corso di Laurea in Scienze Politiche (Indirizzo Politico-Sociale)<br>
 **Materia:** TEORIA DELL’ORGANIZZAZIONE<br>
 **Relatore:** Prof. BRUNO BOLOGNINI<br>
-**Sessione di Laurea:** Febbraio 2003 
+**Sessione di Laurea:** Febbraio 2003  
 
 --- 
 
