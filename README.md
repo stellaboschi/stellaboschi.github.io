@@ -9,12 +9,12 @@ Welcome to the main hub — a node in the infosphere to call home.
 
 ---
 
-## I miei mondi / My Worlds
+## My Worlds
 
 ### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
 Letters, short stories and verse (if you can call it that).
  
-### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
+### [Taming the Magma | Fili Sottili](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
 A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.  
  
@@ -22,7 +22,7 @@ A real-time log of a human-AI hybrid dialogue attempting to tame the flow from o
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
-### [Alberi Senza Radici | Rootless Trees](alberi-senza-radici.md) <small>[2003]</small>
+### [Rootless Trees | Alberi Senza Radici](alberi-senza-radici.md) <small>[2003]</small>
 *"People who are neither sad nor happy, but only enormously empty."*  
 A short novel and stories. A diary of fragments and solitude seeking a balance point.
  
