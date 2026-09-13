@@ -10,13 +10,13 @@ Welcome to the main hub — a node in the infosphere to call home.
 ---
 
 ## My Worlds
-
-### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
-Letters, short stories and verse (if you can call it that).
  
 ### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
 A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.  
+
+### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
+Letters, short stories and verse (if you can call it that).
  
 ### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017 - 2026]</small>
 *Stella's Journey: a narrative path through solitude and hope.*  
