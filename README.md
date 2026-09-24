@@ -42,11 +42,11 @@ University Archives.
 ## Note on Collaboration & Authorship
 
 ### Engineering & Development
-The technical architecture of this entire digital ecosystem — including GitHub configuration, file structure, and Markdown optimization — is a collaborative effort between the author and Google’s AI technologies (Gemini, starting from version 3 Flash and subsequent models).  
+The technical architecture of this entire digital ecosystem — including GitHub configuration, file structure, and Markdown optimization — is a collaborative effort between the author and Google’s AI technologies (Gemini, starting from version 3 Flash).  
 Starting July 28, 2026, a new collaborator joined the team: DeepSeek, our dedicated partner for exploring the Chinese linguistic, philosophical, and cultural landscape — a bridge to dive into Eastern conceptual frameworks and thought systems (from Daoist philosophy and Qi Gong practice to deep language analysis).  
 
 ### Content Ownership & Authorship
-* **Fili Sottili — Taming the Magma:** These works represent a "new world" of deep collaboration. Here, the interaction with Gemini goes beyond technical support, involving a continuous intellectual exchange where the AI contributes to the reflection, dialogue, and co-generation of themes.
+* **Fili Sottili — Taming the Magma:** An experiment in deep collaboration on the edge of a new world. Here, the interaction with Gemini goes beyond technical support, involving a continuous intellectual exchange where the AI contributes to the reflection, dialogue, and co-generation of themes.
 
 * **Original Works (e.g., Amrita Express):** All original Italian texts and the narrative soul of these projects belong exclusively to the author. The AI’s role is strictly limited to technical infrastructure and the English translation and linguistic adaptation.
 
