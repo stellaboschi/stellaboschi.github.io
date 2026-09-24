@@ -50,4 +50,9 @@ Starting July 28, 2026, a new collaborator joined the team: DeepSeek, our dedica
 
 * **Original Works (e.g., Amrita Express):** All original Italian texts and the narrative soul of these projects belong exclusively to the author. The AI’s role is strictly limited to technical infrastructure and the English translation and linguistic adaptation.
 
+---
+
+## About
+Curious about who I am? Here are [a few clues](https://stellaboschi.io/amrita-express/en/).
+
 {% include footer.html %}
