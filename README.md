@@ -11,14 +11,14 @@ Welcome to the main hub, a node in the infosphere to call home.
 
 ## My Worlds
  
-### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026-Present]</small>
+### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026&ndash;Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
 A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.  
 
-### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026-Present]</small>
+### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026&ndash;Present]</small>
 Letters, short stories and verse (if you can call it that).
  
-### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017-2026]</small>
+### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017&ndash;2026]</small>
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
@@ -28,7 +28,7 @@ A short novel and stories. A diary of fragments and solitude seeking a balance p
  
 ---
 
-## [Early Research](early-research.md) <small>[2000-2003]</small>
+## [Early Research](early-research.md) <small>[2000&ndash;2003]</small>
 University Archives.
 
 ---
