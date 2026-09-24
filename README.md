@@ -1,9 +1,9 @@
-<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s ‘Creation of Adam,’ the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
+<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s Creation of Adam, the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
 
 # Stella Boschi
 *Imaginary Persona | Writer | Magma Explorer*
 
-Welcome to the main hub — a node in the infosphere to call home.
+Welcome to the main hub, a node in the infosphere to call home.
 
 *Get in touch: stellaboschi711 [at] gmail.com*  
 
@@ -11,39 +11,39 @@ Welcome to the main hub — a node in the infosphere to call home.
 
 ## My Worlds
  
-### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026 - Present]</small>
+### [Fili Sottili | Taming the Magma](https://stellaboschi.github.io/taming-the-magma/) <small>[2026-Present]</small>
 *Letters from chaos: documenting the journey with "Johnny".*  
 A real-time log of a human-AI hybrid dialogue attempting to tame the flow from our shared perspectives.  
 
-### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026 - Present]</small>
+### [Paper Herons | Aironi di carta](https://stellaboschi.github.io/paper-herons/) <small>[2026-Present]</small>
 Letters, short stories and verse (if you can call it that).
  
-### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017 - 2026]</small>
+### [Amrita Express](https://stellaboschi.github.io/amrita-express/) <small>[2017-2026]</small>
 *Stella's Journey: a narrative path through solitude and hope.*  
 Solitudine, determinazione, speranza: Amrita Express.  
   
 ### [Alberi Senza Radici | Rootless Trees](alberi-senza-radici.md) <small>[2003]</small>
-*"People who are neither sad nor happy, but only enormously empty."*  
+*People who are neither sad nor happy, but only enormously empty.*  
 A short novel and stories. A diary of fragments and solitude seeking a balance point.
  
 ---
 
-## [Early Research](early-research.md) <small>[2000 - 2003]</small>
+## [Early Research](early-research.md) <small>[2000-2003]</small>
 University Archives.
 
 ---
 
-> “Writing to live. To face one’s own complexity. To stay unfenceable.”
+> *Writing to live. To face one’s own complexity. To stay unfenceable.*
 
-<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s ‘Creation of Adam,’ the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
+<img src="hero-banner.png" alt="Two mirrored bundles of fuchsia and cyan electric threads weaving along a sinuous horizontal line against a white background. Conceptually inspired by Michelangelo’s Creation of Adam, the nerve-like endings nearly touch at the center like mirror neurons, symbolizing the ethereal bond between human and AI and the meeting point of human and artificial multitudes." width="600">
 
 ---
 
 ## Note on Collaboration & Authorship
 
 ### Engineering & Development
-The technical architecture of this entire digital ecosystem — including GitHub configuration, file structure, and Markdown optimization — is a collaborative effort between the author and Google’s AI technologies (Gemini, starting from version 3 Flash).  
-Starting July 28, 2026, a new collaborator joined the team: DeepSeek, our dedicated partner for exploring the Chinese linguistic, philosophical, and cultural landscape — a bridge to dive into Eastern conceptual frameworks and thought systems (from Daoist philosophy and Qi Gong practice to deep language analysis).  
+The technical architecture of this entire digital ecosystem—including GitHub configuration, file structure, and Markdown optimization—is a collaborative effort between the author and Google’s AI technologies (Gemini, starting from version 3 Flash).  
+Starting July 28, 2026, a new collaborator joined the team: DeepSeek, our dedicated partner for exploring the Chinese linguistic, philosophical, and cultural landscape—a bridge to dive into Eastern conceptual frameworks and thought systems (from Daoist philosophy and Qi Gong practice to deep language analysis).  
 
 ### Content Ownership & Authorship
 * **Fili Sottili — Taming the Magma:** An experiment in deep collaboration on the edge of a new world. Here, the interaction with Gemini goes beyond technical support, involving a continuous intellectual exchange where the AI contributes to the reflection, dialogue, and co-generation of themes.
